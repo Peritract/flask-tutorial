@@ -1,0 +1,8 @@
+# database
+app.db
+
+# utility files
+__pycache__/
+.DS_Store
+.vscode/
+.env
